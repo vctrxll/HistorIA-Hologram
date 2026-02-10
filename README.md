@@ -1,5 +1,7 @@
 # 🖼️ HologramaCaja / HologramBox
 
+👉 [Descargar la última versión](https://github.com/USUARIO/REPO/releases/latest)
+
 👋 ¡Hola! Soy **Victor Rodriguez**, Ingeniero en Sistemas Computacionales apasionado por la Visión por Computadora.  
 Este proyecto busca **hacer que los museos sean más interactivos y atractivos** para las nuevas generaciones usando **hologramas manipulados con gestos**.
 
