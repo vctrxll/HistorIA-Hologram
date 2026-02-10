@@ -33,8 +33,7 @@ La versión de lanzamiento está empaquetada como un ejecutable para Windows. Pa
 ---
 
 ## 👁️ Visual
-
-![Piezas](https://github.com/user-attachments/assets/ccfb2ef9-2333-4b39-bef8-741630186c5a)
+<img width="800" height="1300" alt="Piezas" src="https://github.com/user-attachments/assets/d94004c7-72ac-4157-8aed-6a246c335477" />
 
 ---
 
